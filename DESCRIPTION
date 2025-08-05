@@ -1,5 +1,5 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
 Authors@R: 
     person("Stephen", "Zuniga", , "rms.shiny@gmail.com", role = c("aut", "cre"),
